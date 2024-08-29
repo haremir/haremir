@@ -5,7 +5,7 @@
 ## 🚀 Yeteneklerim ve İlgi Alanlarım:
 - **Veri Bilimi:** Python, Pandas, NumPy, Scikit-learn, TensorFlow
 - **Veri Görselleştirme:** Matplotlib, Seaborn
-- **Makine Öğrenimi:** KNN, Collaborative Filtering, İçerik Tabanlı Tavsiye Sistemleri
+- **Makine Öğrenimi:** KNN, Collaborative Filtering, catboost
 - **Veri Tabanları:** SQL
 - **Diğer:** Git, Jupyter Notebook, Spyder
 
