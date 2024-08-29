@@ -36,7 +36,7 @@ CineMatch, kullanıcıların film tercihleri doğrultusunda kişiselleştirilmi�
 ## 📫 Bana Ulaşın
 - **LinkedIn:** [Harun Emirhan](https://www.linkedin.com/in/harun-emirhan-bostanci-24144726b/)
 - **Mail:** [Harun Emirhan](harunemirhan826@gmail.com)
-- **Blog:** [Blog Adresiniz](https://haremir.blogspot.com/)
+- **Blog:** [Harun Emirhan BLOG](https://haremir.blogspot.com/)
 
 ---
 
