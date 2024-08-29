@@ -1,43 +1,23 @@
-# 👋 Merhaba, Ben Harun Emirhan!
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🎥 Veri bilimi ve veri analizi tutkunu, aynı zamanda makine öğrenimi meraklısıyım. Şu anda **CineMatch - Film Tavsiye Sistemi** projesi üzerinde çalışıyorum!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haremir&label=Profile%20views&color=0e75b6&style=flat" alt="haremir" /> </p>
 
-## 🚀 Yeteneklerim ve İlgi Alanlarım:
-- **Veri Bilimi:** Python, Pandas, NumPy, Scikit-learn, TensorFlow
-- **Veri Görselleştirme:** Matplotlib, Seaborn
-- **Makine Öğrenimi:** KNN, Collaborative Filtering, catboost
-- **Veri Tabanları:** SQL
-- **Diğer:** Git, Jupyter Notebook, Spyder
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## 🎬 CineMatch - Film Tavsiye Sistemi
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harun emirhan bostanci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun emirhan bostanci" height="30" width="40" /></a>
+<a href="https://kaggle.com/harunemirhanbostanci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harunemirhanbostanci" height="30" width="40" /></a>
+<a href="/https://haremir.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://haremir.blogspot.com/" height="30" width="40" /></a>
+</p>
 
-CineMatch, kullanıcıların film tercihleri doğrultusunda kişiselleştirilmiş öneriler sunan bir film tavsiye sistemidir. Bu proje ile kullanıcıların izleme geçmişini analiz ederek, en sevebilecekleri filmleri öneriyoruz.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 📌 Proje Hedefleri:
-- **Kişiselleştirilmiş Öneriler:** Kullanıcıların beğeni ve izleme geçmişine göre kişiselleştirilmiş film önerileri sunmak.
-- **Algoritmalar:** İçerik tabanlı öneri, işbirlikçi filtreleme ve hibrit modellerin entegrasyonu.
-- **Veri Analizi:** Film ve kullanıcı verilerini analiz ederek trendleri yakalamak ve öneri sistemini sürekli geliştirmek.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haremir&show_icons=true&locale=en&layout=compact" alt="haremir" /></p>
 
-### 🛠️ Kullandığımız Teknolojiler:
-- **Dil:** Python
-- **Veri İşleme:** Pandas, NumPy
-- **Makine Öğrenimi:** Scikit-learn, TensorFlow
-- **Veri Tabanı:** SQL
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haremir&show_icons=true&locale=en" alt="haremir" /></p>
 
-
-### 📄 Proje İçeriği:
-1. **Veri Toplama ve Temizleme:** Film verilerinin toplanması, temizlenmesi ve analiz edilmesi.
-2. **Modelleme:** İçerik tabanlı ve işbirlikçi filtreleme modellerinin geliştirilmesi.
-3. **Değerlendirme:** Model performansının değerlendirilmesi ve iyileştirme adımları.
-4. **Kullanıcı Arayüzü:** Kullanıcıların önerileri görüntüleyebileceği basit bir web arayüzü.
-
-📄 [Proje Repositories'ine Git](https://github.com/haremir/CineMatch)
-
-## 📫 Bana Ulaşın
-- **LinkedIn:** [Harun Emirhan](https://www.linkedin.com/in/harun-emirhan-bostanci-24144726b/)
-- **Mail:** [Harun Emirhan](harunemirhan826@gmail.com)
-- **Blog:** [Harun Emirhan BLOG](https://haremir.blogspot.com/)
-
----
-
-⭐️ Projelerimi incelemeyi ve desteklemeyi unutmayın! Teşekkürler.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&" alt="haremir" /></p>
