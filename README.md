@@ -1,5 +1,5 @@
 <h1 align="center">HARUN EMİRHAN BOSTANCI</h1>
-<h3 align="center">AI & Data Science Engineer | LLM Orchestrator</h3>
+h3 align="center">AI & Data Science Engineer | LLM Orchestrator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haremir&label=Profile%20views&color=0e75b6&style=flat" alt="haremir" />
@@ -8,49 +8,42 @@
 ---
 
 ### ⚡ About Me
-I develop autonomous AI systems and high-performance data architectures. My focus is on Python-driven **End-to-End AI Solutions**, **LLM Orchestration**, and **Automated Data Pipelines**. I prioritize radical efficiency and raw data accuracy over boilerplate solutions.
+I am a senior Computer Engineering student specializing in **Data Science and AI**. I develop autonomous systems using Python, focusing on **LLM Orchestration** and **Agent Architecture**. My approach is rooted in analytical efficiency and radical data accuracy.
 
-* **Core Competencies:** End-to-End AI Solutions, Large Scale Data Analysis, Autonomous AI Agents.
-* **Ecosystem:** Heavy reliance on API-based and local LLMs (Groq, Llama architecture), avoiding standard wrappers for granular control.
-* **Philosophy:** Code must be a flawless execution of data-driven reality.
-
----
-
-### 🏆 Engineering Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haremir&theme=radical&no-bg=true&margin-w=15" alt="haremir trophies" /></a>
-</p>
+* **Core Focus:** End-to-End AI Solutions, Large Scale Data Analysis.
+* **Stack:** Python, Groq API, Llama-based models (70b/8b).
+* **Philosophy:** "Code must be a flawless execution of data-driven reality".
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Languages & Technologies
 
-**AI, Machine Learning & LLM Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama-044B9A?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
+**AI & Machine Learning**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Groq](https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 
 **Architecture & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ---
 
-### 📈 Advanced Metrics & Coding Habits
-<!-- Bu görsel GitHub Action ile senin repoda her gece otomatik oluşturulacak -->
+### 📊 Engineering Metrics (Real-Time Stats)
+<!-- Tıklandığında manuel güncelleme sayfasına gider -->
 <p align="center">
-  <img src="github-metrics.svg" alt="Advanced GitHub Metrics" />
+  <a href="https://github.com/haremir/haremir/actions">
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" />
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api/top-langs/?username=haremir&layout=compact&theme=radical&count_private=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/haremir/haremir/actions">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
