@@ -8,11 +8,10 @@
 ---
 
 ### ⚡ About Me
-I am a senior Computer Engineering student at Erzurum Technical University, specializing in **Data Science and AI**. I develop autonomous AI systems and high-performance data architectures, focusing on **LLM Orchestration** and **Automated Data Pipelines**. I prioritize radical efficiency and raw data accuracy over boilerplate solutions.
+I am an AI and Data Science Engineer based in Erzurum. My work focuses on building autonomous systems and high-performance data architectures. I specialize in Python-driven **End-to-End AI Solutions**, **LLM Orchestration**, and **Automated Data Pipelines**.
 
-* **Education:** Expected graduation in late 2025.
-* **Core Competencies:** End-to-End AI Solutions, Large Scale Data Analysis, Autonomous AI Agents.
-* **Ecosystem:** Heavy reliance on API-based and local LLMs such as **Groq** and **Llama-based models** (70b/8b).
+* **Core Focus:** LLM Orchestration, Autonomous AI Agents, and Scalable Data Analysis.
+* **Current Status:** Senior Computer Engineering student with a deep focus on AI Agent architectures.
 * **Philosophy:** "Code must be a flawless execution of data-driven reality."
 
 ---
@@ -28,17 +27,29 @@ I am a senior Computer Engineering student at Erzurum Technical University, spec
 
 ### 🛠️ Languages & Technologies
 
-**AI & Machine Learning**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+**AI, Machine Learning & LLM Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama-044B9A?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-656665?style=for-the-badge&logo=openrouter&logoColor=white" />
+</p>
 
-**LLM & Backend Architecture**
-[![Groq](https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
-[![Llama](https://img.shields.io/badge/Llama-044B9A?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+**Data, Tools & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -46,24 +57,18 @@ I am a senior Computer Engineering student at Erzurum Technical University, spec
 
 **1. Activity Timeline**
 <p align="center">
-  <a href="https://github.com/haremir/haremir/actions">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=haremir&theme=github-compact&bg_color=0D1117&color=fe428e&line=fe428e&point=ffffff&hide_border=true" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=haremir&theme=github-compact&bg_color=0D1117&color=fe428e&line=fe428e&point=ffffff&hide_border=true&v=2" />
 </p>
 
 **2. Coding Stats & Language Distribution**
 <p align="center">
-  <a href="https://github.com/haremir/haremir/actions">
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" />
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api/top-langs/?username=haremir&layout=compact&theme=radical&count_private=true" />
-  </a>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github&v=2" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haremir&layout=compact&theme=radical&count_private=true&v=2" />
 </p>
 
 **3. Development Consistency**
 <p align="center">
-  <a href="https://github.com/haremir/haremir/actions">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 ---
