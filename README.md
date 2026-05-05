@@ -46,14 +46,11 @@ I build autonomous AI systems and process large-scale data. My primary focus is 
 
 ### 📊 Comprehensive GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical&custom_title=Overall%20GitHub%20Metrics" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=haremir&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github)
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=haremir&show_icons=true&locale=en&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true)
 
 ---
 
@@ -62,6 +59,14 @@ I build autonomous AI systems and process large-scale data. My primary focus is 
 <p align="left">
   <a href="https://www.linkedin.com/in/haremir826/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harunemirhan826@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kaggle.com/harunemirhanbostanci" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
   </a>
   <a href="mailto:harunemirhan826@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
