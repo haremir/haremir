@@ -12,7 +12,7 @@ I am an AI and Data Science Engineer based in Erzurum. My work focuses on buildi
 
 * **Core Focus:** LLM Orchestration, Autonomous AI Agents, and Scalable Data Analysis.
 * **Current Status:** Senior Computer Engineering student with a deep focus on AI Agent architectures.
-* **Philosophy:** "Code must be a flawless execution of data-driven reality."
+* **Philosophy:** "Systems that scale. Code that explains itself."
 
 ---
 
