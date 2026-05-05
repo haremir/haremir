@@ -1,4 +1,4 @@
-<h1 align="center">Harun Emirhan Bostanci</h1>
+<h1 align="center">HARUN EMİRHAN BOSTANCI</h1>
 <h3 align="center">AI & Data Science Engineer | LLM Orchestrator </h3>
 
 <p align="center">
