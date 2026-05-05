@@ -10,38 +10,52 @@
 ### ⚡ About Me
 I develop autonomous AI systems and high-performance data architectures. My focus is on Python-driven **End-to-End AI Solutions**, **LLM Orchestration**, and **Automated Data Pipelines**. I prioritize radical efficiency and raw data accuracy over boilerplate solutions.
 
-* **Expertise:** LLM Orchestration (Groq, Llama architecture), Autonomous AI Agents, and Scalable Data Analysis.
-* **Tech Stack:** Specialized in high-performance inference and bypassing standard wrappers for granular control.
+* **Core Competencies:** End-to-End AI Solutions, Large Scale Data Analysis, Autonomous AI Agents.
+* **Ecosystem:** Heavy reliance on API-based and local LLMs (Groq, Llama architecture), avoiding standard wrappers for granular control.
 * **Philosophy:** Code must be a flawless execution of data-driven reality.
 
 ---
 
-### 🛠️ Languages & Technologies
-
-**AI & Machine Learning**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-
-**LLM & Infrastructure**
-[![Groq](https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
-[![Llama](https://img.shields.io/badge/Llama-044B9A?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
-[![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+### 🏆 Engineering Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haremir&theme=radical&no-bg=true&margin-w=15" alt="haremir trophies" /></a>
+</p>
 
 ---
 
-### 📊 Comprehensive Engineering Analytics
-> **Status:** Using alternative metrics provider due to main service downtime.
+### 🛠️ Tech Stack & Ecosystem
+
+**AI, Machine Learning & LLM Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama-044B9A?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
+**Architecture & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+### 📈 Advanced Metrics & Coding Habits
+<!-- Bu kısım lowlighter metrics kullanarak daha detaylı bir analiz sunar -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api/top-langs/?username=haremir&layout=compact&theme=radical&count_private=true" />
+  <img width="100%" src="https://metrics.lecoq.io/haremir?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Europe%2FIstanbul" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true" />
+  <img width="48%" src="https://metrics.lecoq.io/haremir?template=classic&base=&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage" />
+  <img width="48%" src="https://metrics.lecoq.io/haremir?template=classic&base=&habits=1&habits.from=200&habits.charts=yes&config.timezone=Europe%2FIstanbul" />
 </p>
 
 ---
