@@ -23,7 +23,6 @@ I develop autonomous AI systems and high-performance data architectures. My focu
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 
 **LLM & Infrastructure**
 [![Groq](https://img.shields.io/badge/Groq-F36E21?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
@@ -31,23 +30,19 @@ I develop autonomous AI systems and high-performance data architectures. My focu
 [![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-**Data & Dev Tools**
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
 ---
 
-### 📊 Detailed Engineering Metrics
-> **Note:** To ensure private commits are visible, enable "Include private contributions in my profile" in your GitHub settings.
+### 📊 Comprehensive Engineering Analytics
+> **Status:** Using alternative metrics provider due to main service downtime.
 
-![Detailed Stats](https://github-readme-stats.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api?username=haremir&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-anurag-hazras-projects.vercel.app/api/top-langs/?username=haremir&layout=compact&theme=radical&count_private=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haremir&layout=compact&theme=radical&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true)
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -61,7 +56,5 @@ I develop autonomous AI systems and high-performance data architectures. My focu
   </a>
   <a href="https://kaggle.com/harunemirhanbostanci" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
   </a>
 </p>
