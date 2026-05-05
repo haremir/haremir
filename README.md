@@ -1,51 +1,62 @@
-<h3 align="center">Machine Learning & IoT Enthusiast | Developer | Data Visualizer</h3>
-<h3 align="center">HARUN EMİRHAN BOSTANCI</h3>
+<h1 align="center">Harun Emirhan Bostancı</h1>
+<h3 align="center">AI & Data Science Engineer | LLM Specialist | Agent Orchestrator</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haremir&label=Profile%20views&color=0e75b6&style=flat" alt="haremir" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### ⚡ Hakkımda
+Python tabanlı **Uçtan Uca Yapay Zeka Çözümleri**, **Büyük Dil Modelleri (LLMs)** ve **Otonom Ajan Orkestrasyonu** üzerine odaklanmış bir mühendisim. Veriden anlamlı içgörüler çıkarmak ve bu içgörüleri otonom sistemlere dönüştürmek ana odağımı oluşturuyor.
+
+* 🛠️ **Uzmanlık:** Python, LLM Orchestration (Groq, Llama-based models), Automated Data Processing.
+* 🚀 **Güncel Odak:** LLM tabanlı arama motorları ve otomatik keşifsel veri analizi (EDA) kütüphaneleri.
+* 🤖 **Felsefe:** "Kodun sadece çalışması yetmez; analiz gerçeği, sistem ise radikal verimliliği temsil etmelidir."
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+**AI & Machine Learning**
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+- ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**LLM & Infrastructure**
+- ![Groq](https://img.shields.io/badge/Groq-API-orange?style=for-the-badge)
+- ![Llama](https://img.shields.io/badge/Llama--70B-Specialist-blue?style=for-the-badge)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📂 Öne Çıkan Projeler
+* **MergenX:** Kişiselleştirilmiş tatil paketleri oluşturan AI tabanlı arama motoru.
+* **LazyEda:** LLM destekli raporlama sunan otomatik keşifsel veri analizi kütüphanesi.
+* **DentBot:** Klinik yönetim süreçlerini otomatize eden akıllı randevu sistemi.
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=haremir&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=haremir&show_icons=true&locale=en&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&theme=vision-friendly-dark" alt="haremir" />
+</p>
+
+---
+
+### 📫 İletişim
 <p align="left">
   <a href="https://linkedin.com/in/harunemirhanbostanci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/harunemirhanbostanci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haremir&show_icons=true&locale=en&layout=compact" alt="haremir" />
-</p>
-<br/>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haremir&show_icons=true&locale=en" alt="haremir" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haremir&" alt="haremir" />
 </p>
