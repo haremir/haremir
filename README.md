@@ -42,20 +42,15 @@ I develop autonomous AI systems and high-performance data architectures. My focu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ### 📈 Advanced Metrics & Coding Habits
-<!-- Bu kısım lowlighter metrics kullanarak daha detaylı bir analiz sunar -->
-
+<!-- Bu görsel GitHub Action ile senin repoda her gece otomatik oluşturulacak -->
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/haremir?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Europe%2FIstanbul" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://metrics.lecoq.io/haremir?template=classic&base=&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage" />
-  <img width="48%" src="https://metrics.lecoq.io/haremir?template=classic&base=&habits=1&habits.from=200&habits.charts=yes&config.timezone=Europe%2FIstanbul" />
+  <img src="github-metrics.svg" alt="Advanced GitHub Metrics" />
 </p>
 
 ---
